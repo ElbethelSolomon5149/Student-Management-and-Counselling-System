@@ -1,12 +1,12 @@
 # Student-Management-and-Counselling-System
 User shall be able to login and log out(given that the user enters a registered username and proper password).
 Student registration.
-View various reports and status.
+Student View various reports and status.
 Student communicate with the teacher.
-Control registration.
-Retrieve Transcript.
-Operate report card.
-View student information.
+Registrar Control registration.
+Registrar Retrieve Transcript.
+Registrar Operate report card.
+Registrar View student information.
 Parent Track student status and report.
 Parent Check discipline.
 Parent communicate with a counselor.
