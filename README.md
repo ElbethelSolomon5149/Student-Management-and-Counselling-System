@@ -1,4 +1,4 @@
-# Student-Management-and-Counselling-System
+# SMCS
 The system is both web based and mobile application. By which users can accsess any related services
 given by the schools that they have enrolled in from wherever they are. Some of the features are:
 User shall be able to login and log out(given that the user enters a registered username and proper password).
